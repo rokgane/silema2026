@@ -1,0 +1,104 @@
+
+decivreduxTilesets.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Bioculture
+  rotate: false
+  xy: 164, 160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Badlands
+  rotate: false
+  xy: 44, 16
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Tiles/BadlandsForest
+  rotate: false
+  xy: 84, 196
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/BadlandsJungle
+  rotate: false
+  xy: 84, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Permafrost
+  rotate: false
+  xy: 1325, 149
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PermafrostForest
+  rotate: false
+  xy: 1325, 109
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PermafrostJungle
+  rotate: false
+  xy: 1325, 69
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wasteland
+  rotate: false
+  xy: 1925, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/WastelandForest
+  rotate: false
+  xy: 1965, 400
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/WastelandJungle
+  rotate: false
+  xy: 1605, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Barbarian encampment-Permafrost
+  rotate: false
+  xy: 124, 160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Camp+Furs
+  rotate: false
+  xy: 525, 440
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Furs+Camp
+  rotate: false
+  xy: 525, 440
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bioculture
+  rotate: false
+  xy: 164, 160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

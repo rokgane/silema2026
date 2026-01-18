@@ -1,0 +1,1961 @@
+NationIcons.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+NationIcons/N10 America
+  rotate: false
+  xy: 4, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N09 Arabia
+  rotate: false
+  xy: 127, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N29 Austria
+  rotate: false
+  xy: 4, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N23 Aztecs
+  rotate: false
+  xy: 235, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N01 Babylon
+  rotate: false
+  xy: 4, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N31 Byzantium
+  rotate: false
+  xy: 451, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N30 Carthage
+  rotate: false
+  xy: 559, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N32 Celts
+  rotate: false
+  xy: 667, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N03 China
+  rotate: false
+  xy: 883, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N25 Denmark
+  rotate: false
+  xy: 1315, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N04 Egypt
+  rotate: false
+  xy: 1531, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N05 England
+  rotate: false
+  xy: 1639, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N33 Ethiopia
+  rotate: false
+  xy: 1747, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N06 France
+  rotate: false
+  xy: 1855, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N13 Germany
+  rotate: false
+  xy: 112, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N02 Greece
+  rotate: false
+  xy: 112, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N24 Inca
+  rotate: false
+  xy: 220, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N12 India
+  rotate: false
+  xy: 220, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N16 Iroquois
+  rotate: false
+  xy: 328, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N11 Japan
+  rotate: false
+  xy: 220, 77
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N15 Korea
+  rotate: false
+  xy: 328, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N22 Mongolia
+  rotate: false
+  xy: 436, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N17 Persia
+  rotate: false
+  xy: 436, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N18 Polynesia
+  rotate: false
+  xy: 544, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N08 Rome
+  rotate: false
+  xy: 652, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N07 Russia
+  rotate: false
+  xy: 544, 77
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N19 Siam
+  rotate: false
+  xy: 760, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N21 Songhai
+  rotate: false
+  xy: 652, 77
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N20 Spain
+  rotate: false
+  xy: 760, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N28 Sweden
+  rotate: false
+  xy: 760, 77
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N26 The Huns
+  rotate: false
+  xy: 868, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N34 The Maya
+  rotate: false
+  xy: 976, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N27 The Netherlands
+  rotate: false
+  xy: 868, 77
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N14 The Ottomans
+  rotate: false
+  xy: 976, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+Ricons1.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+ReligionIcons/Buddhism
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Christianity
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Confucianism
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Enhancer
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Follower
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Founder
+  rotate: false
+  xy: 544, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Hinduism
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Islam
+  rotate: false
+  xy: 760, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Judaism
+  rotate: false
+  xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Pantheon
+  rotate: false
+  xy: 976, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Religion
+  rotate: false
+  xy: 1084, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Religions
+  rotate: false
+  xy: 1084, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Shinto
+  rotate: false
+  xy: 1192, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Sikhism
+  rotate: false
+  xy: 1300, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Taoism
+  rotate: false
+  xy: 1408, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Tengriism
+  rotate: false
+  xy: 1516, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Zoroastrianism
+  rotate: false
+  xy: 1624, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+
+HoHk1.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Observation Balloon
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Observar
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spreader
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Revealer
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo91
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo92
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo93
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo94
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo95
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo96
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo97
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo98
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo99
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TestBallo90
+  rotate: false
+  xy: 1300, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+HoHk2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Observation Balloon
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Observar
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spreader
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Revealer
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo91
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo92
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo93
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo94
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo95
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo96
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo97
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo98
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo99
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TestBallo90
+  rotate: false
+  xy: 1890, 1380
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+Alienz.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Breeders
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Holodeck
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/N00 Aliens
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Phasers
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+canal.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Panama Canal
+  rotate: false
+  xy: 212, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Concrete Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Dirt Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/National Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Panama Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Suez Canal Construction Site
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Concrete Canal Digger
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Dirt Canal Digger
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Concrete Canal Digger
+  rotate: false
+  xy: 420, 159
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Dirt Canal Digger
+  rotate: false
+  xy: 420, 70
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Concrete Canal Digger
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dirt Canal Digger
+  rotate: false
+  xy: 523, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Concrete Canal
+  rotate: false
+  xy: 523, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Dirt Canal
+  rotate: false
+  xy: 595, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/National Canal
+  rotate: false
+  xy: 667, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Panama Canal
+  rotate: false
+  xy: 667, 120
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Suez Canal
+  rotate: false
+  xy: 739, 184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Concrete Canal Digger
+  rotate: false
+  xy: 523, 120
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Dirt Canal Digger
+  rotate: false
+  xy: 595, 120
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+Challenges.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/ChallengesActivate
+  rotate: false
+  xy: 760, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px03 Challenge Blind
+  rotate: false
+  xy: 818, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px12 Challenge Totally Blind
+  rotate: false
+  xy: 818, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px01 Challenge Palace Nullifier
+  rotate: false
+  xy: 4, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px08 Challenge Cursed March
+  rotate: false
+  xy: 876, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px16 Challenge Cursed March Extreme
+  rotate: false
+  xy: 112, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px09 Challenge Cursed Swim
+  rotate: false
+  xy: 934, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px17 Challenge - End
+  rotate: false
+  xy: 760, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px07 Challenge No Civilian
+  rotate: false
+  xy: 220, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px02 Challenge No Culture
+  rotate: false
+  xy: 818, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px05 Challenge No Melee Units
+  rotate: false
+  xy: 328, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px06 Challenge No Planes
+  rotate: false
+  xy: 544, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Px04 Challenge No Ranged Units
+  rotate: false
+  xy: 652, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/No Move
+  rotate: false
+  xy: 436, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Totally Blind
+  rotate: false
+  xy: 436, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+Citycheat.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Agency HQ
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Corporate HQ
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cybernetics Lab
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Defense Tower
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Divine Gate
+  rotate: false
+  xy: 544, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Divine Mint
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Planning HQ
+  rotate: false
+  xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tome Museum
+  rotate: false
+  xy: 976, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Units/Angel
+  rotate: false
+  xy: 112, 4
+  size: 64, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Angel
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Angel
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Angel
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+decivreduxgame.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Bioculture
+  rotate: false
+  xy: 4, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+
+decivreduxTilesets.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Bioculture
+  rotate: false
+  xy: 164, 160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Badlands
+  rotate: false
+  xy: 44, 16
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Tiles/BadlandsForest
+  rotate: false
+  xy: 84, 196
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/BadlandsJungle
+  rotate: false
+  xy: 84, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Permafrost
+  rotate: false
+  xy: 1325, 149
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PermafrostForest
+  rotate: false
+  xy: 1325, 109
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PermafrostJungle
+  rotate: false
+  xy: 1325, 69
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wasteland
+  rotate: false
+  xy: 1925, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/WastelandForest
+  rotate: false
+  xy: 1965, 400
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/WastelandJungle
+  rotate: false
+  xy: 1605, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Barbarian encampment-Permafrost
+  rotate: false
+  xy: 124, 160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Camp+Furs
+  rotate: false
+  xy: 525, 440
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Furs+Camp
+  rotate: false
+  xy: 525, 440
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bioculture
+  rotate: false
+  xy: 164, 160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+IceBreaker.png
+size: 256, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Ice Breaker
+  rotate: false
+  xy: 112, 48
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ice Breaker
+  rotate: false
+  xy: 112, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Ice Breaker
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+
+polypolicy.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyBranchIcons/Pm21 Monoculturalism
+  rotate: false
+  xy: 816, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Pm22 Multiculturalism
+  rotate: false
+  xy: 874, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm21 Assimilationism
+  rotate: false
+  xy: 112, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm22 Autonomous Republics
+  rotate: false
+  xy: 200, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm22 Autonomous Zones
+  rotate: false
+  xy: 288, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm22 Cultural Preservation
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm21 Dress Code
+  rotate: false
+  xy: 376, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm22 Intercultural Dialogue
+  rotate: false
+  xy: 464, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm22 Multilingualism
+  rotate: false
+  xy: 552, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm21 Nation-State
+  rotate: false
+  xy: 640, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm21 Official Language
+  rotate: false
+  xy: 728, 24
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+PolicyIcons/Pm21 Official Script
+  rotate: false
+  xy: 932, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+
+
+SmokySkies.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/RM01 Aetherium
+  rotate: false
+  xy: 4, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RM02 Luboric
+  rotate: false
+  xy: 112, 78
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+TechIcons/Airships
+  rotate: false
+  xy: 437, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Land Leviathan
+  rotate: false
+  xy: 437, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Sky Fortress
+  rotate: false
+  xy: 437, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Landships
+  rotate: false
+  xy: 545, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RM01 Aetherium
+  rotate: false
+  xy: 62, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RM02 Luboric
+  rotate: false
+  xy: 1370, 347
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Airship
+  rotate: false
+  xy: 1949, 385
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Airship
+  rotate: false
+  xy: 1949, 385
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Sky Fortress
+  rotate: false
+  xy: 1192, 199
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sky Fortress
+  rotate: false
+  xy: 1192, 199
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Land Ironclad
+  rotate: false
+  xy: 374, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Land Leviathan
+  rotate: false
+  xy: 1330, 347
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Landship
+  rotate: false
+  xy: 414, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Airship
+  rotate: false
+  xy: 221, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Flyer
+  rotate: false
+  xy: 1625, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Land Ironclad
+  rotate: false
+  xy: 220, 275
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Land Leviathan
+  rotate: false
+  xy: 220, 167
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sky Fortress
+  rotate: false
+  xy: 760, 167
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Land Leviathan
+  rotate: false
+  xy: 220, 167
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Sky Carrier
+  rotate: false
+  xy: 760, 167
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-DNS Sky Carrier
+  rotate: false
+  xy: 1192, 199
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/DNS Sky Carrier
+  rotate: false
+  xy: 1192, 199
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/DNS Land Leviathan
+  rotate: false
+  xy: 1330, 347
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Flyer
+  rotate: false
+  xy: 1625, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+
+Terraforming.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Plant Forest
+  rotate: false
+  xy: 4, 4
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Plant Forest
+  rotate: false
+  xy: 237, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+
+TunnelHill.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Tunnel Worker
+  rotate: false
+  xy: 2, 2
+  size: 410, 500
+  orig: 410, 500
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tunnel Worker
+  rotate: false
+  xy: 412, 409
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mountain Tunnel 
+  rotate: false
+  xy: 412, 439
+  size: 64, 63
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+Zepnaut.png
+size: 256, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Astronaut
+  rotate: false
+  xy: 220, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Zeppelin
+  rotate: false
+  xy: 220, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Astronaut
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Zeppelin
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Zeppelin Terraformer
+  rotate: false
+  xy: 220, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Zeppelin Terraformer
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

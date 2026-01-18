@@ -1,0 +1,566 @@
+
+R3Tech.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TechIcons/E4 Acoustics
+  rotate: false
+  xy: 4, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Advanced Ballistics
+  rotate: false
+  xy: 190, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Agriculture
+  rotate: false
+  xy: 4, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Animal Husbandry
+  rotate: false
+  xy: 298, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Archaeology
+  rotate: false
+  xy: 4, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Archery
+  rotate: false
+  xy: 406, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Architecture
+  rotate: false
+  xy: 4, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Astronomy
+  rotate: false
+  xy: 514, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E7 Atomic Theory
+  rotate: false
+  xy: 4, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Ballistics
+  rotate: false
+  xy: 622, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Banking
+  rotate: false
+  xy: 4, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Biology
+  rotate: false
+  xy: 730, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Bronze Working
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Calendar
+  rotate: false
+  xy: 838, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Chemistry
+  rotate: false
+  xy: 946, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Chivalry
+  rotate: false
+  xy: 1054, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Civil Service
+  rotate: false
+  xy: 1162, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E7 Combined Arms
+  rotate: false
+  xy: 1270, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Combustion
+  rotate: false
+  xy: 1378, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Compass
+  rotate: false
+  xy: 1486, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E7 Computers
+  rotate: false
+  xy: 1594, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Construction
+  rotate: false
+  xy: 1702, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Currency
+  rotate: false
+  xy: 1810, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Drama and Poetry
+  rotate: false
+  xy: 1918, 838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Dynamite
+  rotate: false
+  xy: 112, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E7 Ecology
+  rotate: false
+  xy: 112, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Economics
+  rotate: false
+  xy: 112, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Education
+  rotate: false
+  xy: 112, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Electricity
+  rotate: false
+  xy: 112, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Electronics
+  rotate: false
+  xy: 112, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Engineering
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Fertilizer
+  rotate: false
+  xy: 220, 622
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Flight
+  rotate: false
+  xy: 328, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E9 Future Tech
+  rotate: false
+  xy: 220, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Globalization
+  rotate: false
+  xy: 328, 622
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Guilds
+  rotate: false
+  xy: 436, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Gunpowder
+  rotate: false
+  xy: 220, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Horseback Riding
+  rotate: false
+  xy: 328, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Industrialization
+  rotate: false
+  xy: 436, 622
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Iron Working
+  rotate: false
+  xy: 544, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Lasers
+  rotate: false
+  xy: 220, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Machinery
+  rotate: false
+  xy: 328, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Masonry
+  rotate: false
+  xy: 436, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Mathematics
+  rotate: false
+  xy: 652, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Metal Casting
+  rotate: false
+  xy: 220, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Metallurgy
+  rotate: false
+  xy: 328, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Military Science
+  rotate: false
+  xy: 436, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Mining
+  rotate: false
+  xy: 544, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Mobile Tactics
+  rotate: false
+  xy: 652, 622
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Nanotechnology
+  rotate: false
+  xy: 760, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Navigation
+  rotate: false
+  xy: 220, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E7 Nuclear Fission
+  rotate: false
+  xy: 328, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Nuclear Fusion
+  rotate: false
+  xy: 436, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Optics
+  rotate: false
+  xy: 544, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Particle Physics
+  rotate: false
+  xy: 652, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E7 Pharmaceuticals
+  rotate: false
+  xy: 760, 622
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E2 Philosophy
+  rotate: false
+  xy: 868, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Physics
+  rotate: false
+  xy: 328, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Plastics
+  rotate: false
+  xy: 436, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Pottery
+  rotate: false
+  xy: 544, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E4 Printing Press
+  rotate: false
+  xy: 652, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E7 Radar
+  rotate: false
+  xy: 760, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Radio
+  rotate: false
+  xy: 868, 622
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Railroads
+  rotate: false
+  xy: 976, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Refrigeration
+  rotate: false
+  xy: 436, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E6 Replaceable Parts
+  rotate: false
+  xy: 544, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Rifling
+  rotate: false
+  xy: 652, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Robotics
+  rotate: false
+  xy: 760, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E7 Rocketry
+  rotate: false
+  xy: 868, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Sailing
+  rotate: false
+  xy: 976, 622
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Satellites
+  rotate: false
+  xy: 1084, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Scientific Theory
+  rotate: false
+  xy: 544, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Stealth
+  rotate: false
+  xy: 652, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E5 Steam Power
+  rotate: false
+  xy: 760, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Steel
+  rotate: false
+  xy: 868, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E8 Telecommunications
+  rotate: false
+  xy: 976, 514
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 The Wheel
+  rotate: false
+  xy: 1192, 730
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E3 Theology
+  rotate: false
+  xy: 652, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Trapping
+  rotate: false
+  xy: 760, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/E1 Writing
+  rotate: false
+  xy: 868, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

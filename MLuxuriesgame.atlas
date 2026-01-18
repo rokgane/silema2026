@@ -1,0 +1,264 @@
+MLuxuriesgame.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/RML01 Amber_old
+  rotate: false
+  xy: 4, 1112
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML02 Coffee_old
+  rotate: false
+  xy: 524, 1632
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML03 Coral_old
+  rotate: false
+  xy: 4, 704
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML10 Glass_old
+  rotate: false
+  xy: 932, 1632
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML04 Jade_old
+  rotate: false
+  xy: 4, 296
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML05 Lapis Lazuli_old
+  rotate: false
+  xy: 4, 1520
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML06 Olives_old
+  rotate: false
+  xy: 1340, 1632
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML07 Perfume_old
+  rotate: false
+  xy: 412, 1112
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML08 Tea_old
+  rotate: false
+  xy: 412, 704
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/RML09 Tobacco_old
+  rotate: false
+  xy: 412, 296
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML01 Amber
+  rotate: false
+  xy: 524, 1532
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+RML03 Coral+Fishing Boats
+  rotate: false
+  xy: 76, 130
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML03 Coral+Fishing Boats
+  rotate: false
+  xy: 76, 130
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML02 Coffee
+  rotate: false
+  xy: 148, 194
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML03 Coral
+  rotate: false
+  xy: 220, 258
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML04 Jade
+  rotate: false
+  xy: 1748, 1812
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML05 Lapis Lazuli
+  rotate: false
+  xy: 1820, 1876
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML06 Olives
+  rotate: false
+  xy: 1892, 1934
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML07 Perfume
+  rotate: false
+  xy: 1964, 1998
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML08 Tea
+  rotate: false
+  xy: 740, 1596
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/RML09 Tobacco
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML01 Amber
+  rotate: false
+  xy: 4, 232
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML02 Coffee
+  rotate: false
+  xy: 1748, 1976
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML02 Coffee+Plantation
+  rotate: false
+  xy: 524, 1568
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML03 Coral
+  rotate: false
+  xy: 4, 168
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML03 Coral+Fishing Boats
+  rotate: false
+  xy: 76, 232
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML03 Coral+Fishing Boats-Industrial era
+  rotate: false
+  xy: 1748, 1912
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML04 Jade
+  rotate: false
+  xy: 1820, 1976
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML05 Lapis Lazuli
+  rotate: false
+  xy: 596, 1568
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML06 Olives
+  rotate: false
+  xy: 4, 104
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML06 Olives+Plantation
+  rotate: false
+  xy: 76, 168
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML07 Perfume
+  rotate: false
+  xy: 148, 232
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML07 Perfume+Plantation
+  rotate: false
+  xy: 1748, 1848
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML08 Tea
+  rotate: false
+  xy: 1820, 1912
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML08 Tea+Plantation
+  rotate: false
+  xy: 1892, 1976
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML09 Tobacco
+  rotate: false
+  xy: 668, 1568
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RML09 Tobacco+Plantation
+  rotate: false
+  xy: 4, 40
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

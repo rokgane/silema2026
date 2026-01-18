@@ -1,0 +1,432 @@
+gameImprovementIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+ImprovementIcons/DNS FunFort01
+  rotate: false
+  xy: 1279, 1835
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/DNS FunFort02
+  rotate: false
+  xy: 1279, 1835
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/DNS FunFort03
+  rotate: false
+  xy: 1279, 1835
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/DNS Academy
+  rotate: false
+  xy: 1259, 1943
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/DNS Holy site
+  rotate: false
+  xy: 583, 1757
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/DNS Landmark
+  rotate: false
+  xy: 799, 1481
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/DNS Manufactory
+  rotate: false
+  xy: 1123, 1712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/DNS Citadel
+  rotate: false
+  xy: 144, 1339
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/DNS Customs house
+  rotate: false
+  xy: 112, 691
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RS05 Aluminum
+  rotate: false
+  xy: 4, 585
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RB04 Bananas
+  rotate: false
+  xy: 4, 477
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RB01 Cattle
+  rotate: false
+  xy: 4, 45
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL16 Citrus
+  rotate: false
+  xy: 475, 1571
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RS03 Coal
+  rotate: false
+  xy: 142, 1123
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL17 Copper
+  rotate: false
+  xy: 250, 1123
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL02 Cotton
+  rotate: false
+  xy: 248, 1015
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL18 Crab
+  rotate: false
+  xy: 127, 907
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RB03 Deer
+  rotate: false
+  xy: 112, 583
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL03 Dyes
+  rotate: false
+  xy: 112, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RB07 Fish
+  rotate: false
+  xy: 955, 1807
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL01 Furs
+  rotate: false
+  xy: 1387, 1835
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL04 Gems
+  rotate: false
+  xy: 1495, 1835
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL05 Gold Ore
+  rotate: false
+  xy: 1819, 1835
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RS01 Horses
+  rotate: false
+  xy: 583, 1649
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL07 Incense
+  rotate: false
+  xy: 583, 1541
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RS02 Iron
+  rotate: false
+  xy: 691, 1589
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL08 Ivory
+  rotate: false
+  xy: 799, 1697
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RLCS01 Jewelry
+  rotate: false
+  xy: 799, 1589
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL13 Marble
+  rotate: false
+  xy: 1123, 1496
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RS04 Oil
+  rotate: false
+  xy: 1663, 1619
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL15 Pearls
+  rotate: false
+  xy: 1879, 1727
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RLCS02 Porcelain
+  rotate: false
+  xy: 684, 1373
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL19 Salt
+  rotate: false
+  xy: 466, 1031
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RB02 Sheep
+  rotate: false
+  xy: 464, 923
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL09 Silk
+  rotate: false
+  xy: 680, 834
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL06 Silver
+  rotate: false
+  xy: 788, 833
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL10 Spices
+  rotate: false
+  xy: 1008, 1267
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RB06 Stone
+  rotate: false
+  xy: 1339, 1295
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL12 Sugar
+  rotate: false
+  xy: 1447, 1295
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL20 Truffles
+  rotate: false
+  xy: 1123, 1280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RS06 Uranium
+  rotate: false
+  xy: 1116, 1064
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL14 Whales
+  rotate: false
+  xy: 1224, 1172
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RB05 Wheat
+  rotate: false
+  xy: 1224, 1064
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL11 Wine
+  rotate: false
+  xy: 1339, 1187
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI01 Farm
+  rotate: false
+  xy: 847, 1805
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI17 Fishing Boats
+  rotate: false
+  xy: 1063, 1820
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI02 Lumber mill
+  rotate: false
+  xy: 1015, 1591
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI03 Mine
+  rotate: false
+  xy: 1339, 1619
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/CU01 Moai
+  rotate: false
+  xy: 1447, 1727
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI13 Offshore Platform
+  rotate: false
+  xy: 1555, 1511
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI12 Oil well
+  rotate: false
+  xy: 1771, 1727
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI14 Pasture
+  rotate: false
+  xy: 1771, 1619
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI15 Plantation
+  rotate: false
+  xy: 360, 1247
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/CU03 Polder
+  rotate: false
+  xy: 468, 1355
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI16 Quarry
+  rotate: false
+  xy: 900, 1373
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/CU02 Terrace farm
+  rotate: false
+  xy: 1663, 1295
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI04 Trading post
+  rotate: false
+  xy: 1879, 1295
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI11 Camp
+  rotate: false
+  xy: 4, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI20 Fort
+  rotate: false
+  xy: 1279, 1835
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI18 Farm
+  rotate: false
+  xy: 847, 1805
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/TI19 Mine
+  rotate: false
+  xy: 1339, 1619
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

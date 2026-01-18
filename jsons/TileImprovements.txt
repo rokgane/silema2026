@@ -1,0 +1,2109 @@
+//added  ice breaker
+[
+//xsa//removed
+	{
+		"name": "Farm",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "F"
+	},
+	{
+		"name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "[+1 Production] <after discovering [Scientific Theory]>", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "L"
+	},
+	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "[+1 Production] <after discovering [Chemistry]>", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "M"
+	},
+	{
+		"name": "Trading post",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "[+1 Gold] <after discovering [Economics]>", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "T"
+	},
+
+	// Resource-specific
+	{
+		"name": "Camp",
+		"turnsToBuild": 7,
+		"techRequired": "Trapping",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "Does not need removal of [Forest]",
+		    "Does not need removal of [Jungle]",
+		    "[+1 Gold] <after discovering [Economics]>", 
+		    "Can only be built to improve a resource",
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "C"
+	},
+	{
+		"name": "Oil well",
+		"turnsToBuild": 9,
+		"techRequired": "Biology",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "Can only be built to improve a resource", 
+		    "Cannot be built on [Water] tiles", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "W"
+	},
+	{
+		"name": "Offshore Platform",
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"techRequired": "Refrigeration",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "Can only be built to improve a resource",
+		    "Can only be built on [Water] tiles", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "P"
+	},
+	{
+		"name": "Pasture",
+		"turnsToBuild": 8,
+		"techRequired": "Animal Husbandry",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "[+1 Food] <after discovering [Fertilizer]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
+	{
+		"name": "Plantation",
+		"turnsToBuild": 6,
+		"gold": 1,
+		"techRequired": "Calendar",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "[+1 Food] <after discovering [Fertilizer]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
+	{
+		"name": "Quarry",
+		"turnsToBuild": 8,
+		"techRequired": "Masonry",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "[+1 Production] <after discovering [Chemistry]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "Q"
+	},
+	{
+		"name": "Fishing Boats",
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"food": 1,
+		"techRequired": "Sailing",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "[+1 Gold] <after discovering [Compass]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "F"
+	},
+
+	// Military improvement
+	{
+		"name": "Fort",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"turnsToBuild": 6,
+		"techRequired": "Engineering",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "Can be built outside your borders", 
+		    "Gives a defensive bonus of [50]%"],
+		"shortcutKey": "O"
+	},
+
+	//Civilization unique improvements
+	{
+		"name": "Moai",
+		"uniqueTo": "Polynesia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 1,
+		"turnsToBuild": 4,
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "Can only be built on [Coastal] tiles", 
+		    "[+1 Culture] for each adjacent [Moai]", 
+		    "[+1 Gold] <after discovering [Flight]>", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"techRequired": "Construction",
+		"shortcutKey": "M"
+	},
+	{
+		"name": "Terrace farm",
+		"uniqueTo": "Inca",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "Cannot be built on [Bonus resource] tiles",
+			"[+1 Food] for each adjacent [Mountain]",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"techRequired": "Construction",
+		"shortcutKey": "F"
+	},
+	{
+		"name": "Polder",
+		"uniqueTo": "The Netherlands",
+		"food": 3,
+		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
+		"turnsToBuild": 7,
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+		    "[+1 Production, +2 Gold] <after discovering [Economics]>", 
+		    "Pillaging this improvement yields approximately [+18 Gold]"],
+		"techRequired": "Guilds",
+		"shortcutKey": "F"
+	},
+
+
+
+
+/*
+    {
+		"name": "Dirt Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+			"Turn this tile into a [Coast] tile","Turn this tile into a [Dirt Canal] tile",
+			"Cannot be built on [Hill] tiles",
+//XSA			"Can only be built on [Coastal] tiles",
+			"Can only be built on [Land] tiles",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
+	},
+	{
+		"name": "Concrete Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Dirt Canal"],
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [Concrete Canal] tile",
+//XSA			"Can only be built on [Coastal] tiles",
+			"Can only be built on [Land] tiles",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
+	},
+
+
+
+
+	{
+		"name": "Suez Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Mountain","Wasteland","Badlands","Permafrost"],
+		"turnsToBuild": 3,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+			"Can be built outside your borders",
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [Suez Canal] tile",
+//XSA			"Can only be built on [Coastal] tiles",
+			"Can only be built on [Land] tiles",
+//			"Cannot be built on [Hill] tiles",
+//			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
+	},
+*/
+//{Wasteland} {Badlands} {Permafrost}
+
+/*
+	{
+		"name": "Panama Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+			"Removes removable features when built",
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [Panama Canal] tile",
+//XSA			"Can only be built on [Coastal] tiles",
+			"Can only be built on [Land] tiles",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
+	},
+	{
+		"name": "National Canal Construction Site",
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra"],
+		"uniques": [
+                "Excluded from map editor",
+				"Unbuildable <hidden from users>",
+				"Unavailable <hidden from users>",
+
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [National Canal] tile",
+//XSA			"Can only be built on [Coastal] tiles",
+			"Can only be built on [Land] tiles",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Canal"]
+	},
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "The Wheel",
+		"uniques": [
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "Can be built outside your borders", 
+		    "Costs [1] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+        ]
+	},
+	{
+		"name": "Railroad",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Railroads",
+		"uniques": [
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "Can be built outside your borders", 
+		    "Costs [2] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"},
+            {"text":"Provides a +25% [Production] bonus to cities connected to the capital by Railroads"}
+        ]
+	},
+
+
+
+
+
+
+
+    // Great Person improvements
+
+	{
+		"name": "Academy",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 8,
+		"uniques": [
+            "Excluded from map editor",
+            "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "Great Improvement", 
+		    "[+2 Science] <after discovering [Scientific Theory]>",
+            "[+2 Science] <after discovering [Atomic Theory]>", 
+            "Removes removable features when built",
+            "Will not be replaced by automated units", 
+            "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Landmark",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 6,
+		"uniques": [
+            "Excluded from map editor",
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "Great Improvement", 
+		    "Removes removable features when built",
+            "Will not be replaced by automated units", 
+            "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Manufactory",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 4,
+		"uniques": [
+            "Excluded from map editor",
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "Great Improvement", 
+		    "[+1 Production] <after discovering [Chemistry]>", 
+		    "Will not be replaced by automated units",
+            "Removes removable features when built", 
+            "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Customs house",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 4,
+		"uniques": [
+            "Excluded from map editor",
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "Great Improvement", 
+		    "[+1 Gold] <after discovering [Economics]>", 
+		    "Removes removable features when built",
+            "Will not be replaced by automated units",
+            "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Holy site",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"faith": 6,
+		"uniques": [
+            "Excluded from map editor",
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "Great Improvement",
+		    "Removes removable features when built", 
+		    "Will not be replaced by automated units", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Citadel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+            "Excluded from map editor",
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+			"Great Improvement",
+			"Gives a defensive bonus of [100]%",
+			"Adjacent enemy units ending their turn take [30] damage",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [1]-tile radius",
+			"Removes removable features when built",
+            "Will not be replaced by automated units"
+		]
+	},
+
+
+
+
+	{
+		"name": "TI01 Farm",
+		"terrainsCanBeBuiltOn": ["Wasteland","Badlands","Permafrost","Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "F"
+	},
+	{
+		"name": "TI02 Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+            "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "[+1 Production] <after discovering [Scientific Theory]>", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "L"
+	},
+	{
+		"name": "TI03 Mine",
+		"terrainsCanBeBuiltOn": ["Wasteland","Badlands","Permafrost","Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+            "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "[+1 Production] <after discovering [Chemistry]>", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "M"
+	},
+	{
+		"name": "TI04 Trading post",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+            "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "[+1 Gold] <after discovering [Economics]>", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "T"
+	},
+
+	// Resource-specific
+	{
+		"name": "TI11 Camp",
+		"turnsToBuild": 7,
+		"techRequired": "Trapping",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "Does not need removal of [Forest]",
+		    "Does not need removal of [Jungle]",
+		    "[+1 Gold] <after discovering [Economics]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "C"
+	},
+	{
+		"name": "TI12 Oil well",
+		"turnsToBuild": 9,
+		"techRequired": "Biology",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "Can only be built to improve a resource", 
+		    "Cannot be built on [Water] tiles", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "W"
+	},
+	{
+		"name": "TI13 Offshore Platform",
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"techRequired": "Refrigeration",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "Can only be built to improve a resource", 
+		    "Can only be built on [Water] tiles", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "P"
+	},
+	{
+		"name": "TI14 Pasture",
+		"turnsToBuild": 8,
+		"techRequired": "Animal Husbandry",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "[+1 Food] <after discovering [Fertilizer]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
+	{
+		"name": "TI15 Plantation",
+		"turnsToBuild": 6,
+		"gold": 1,
+		"techRequired": "Calendar",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "[+1 Food] <after discovering [Fertilizer]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
+	{
+		"name": "TI16 Quarry",
+		"turnsToBuild": 8,
+		"techRequired": "Masonry",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "[+1 Production] <after discovering [Chemistry]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "Q"
+	},
+	{
+		"name": "TI17 Fishing Boats",
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"food": 1,
+		"techRequired": "Sailing",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "[+1 Gold] <after discovering [Compass]>", 
+		    "Can only be built to improve a resource", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "F"
+	},
+
+	{
+		"name": "TI18 Farm",
+		"terrainsCanBeBuiltOn": ["Wasteland","Badlands","Permafrost","Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "Can only be built to improve a resource", 
+
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "F"
+	},
+	{
+		"name": "TI19 Mine",
+		"terrainsCanBeBuiltOn": ["Wasteland","Badlands","Permafrost","Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "Can only be built to improve a resource", 
+
+		    "[+1 Production] <after discovering [Chemistry]>", 
+		    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "M"
+	},
+
+	// Military improvement
+	{
+		"name": "TI20 Fort",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"turnsToBuild": 6,
+		"techRequired": "Engineering",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+		    "Can be built outside your borders", 
+		    "Gives a defensive bonus of [50]%"],
+		"shortcutKey": "O"
+	},
+
+
+	//Civilization unique improvements
+	{
+		"name": "CU01 Moai",
+		"uniqueTo": "Polynesia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 1,
+		"turnsToBuild": 4,
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "Can only be built on [Coastal] tiles", 
+		    "[+1 Culture] for each adjacent [Moai]", 
+		    "[+1 Gold] <after discovering [Flight]>", 
+		    "Pillaging this improvement yields approximately [+10 Gold]"],
+		"techRequired": "Construction",
+		"shortcutKey": "M"
+	},
+	{
+		"name": "CU02 Terrace farm",
+		"uniqueTo": "Inca",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+// 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "Cannot be built on [Bonus resource] tiles",
+			"[+1 Food] for each adjacent [Mountain]",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"techRequired": "Construction",
+		"shortcutKey": "F"
+	},
+	{
+		"name": "CU03 Polder",
+		"uniqueTo": "The Netherlands",
+		"food": 3,
+		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
+		"turnsToBuild": 7,
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+		    "[+1 Production, +2 Gold] <after discovering [Economics]>", 
+		    "Pillaging this improvement yields approximately [+18 Gold]"],
+		"techRequired": "Guilds",
+		"shortcutKey": "F"
+	},
+
+
+
+
+
+	{
+		"name": "Plant Forest",
+		"terrainsCanBeBuiltOn": ["Wasteland","Badlands","Permafrost","Grassland","Hill","Plains","Tundra","Desert","Snow"],
+//XSA		"requiredNearbyImprovedResources": ["Marble","Stone","Obsidian"],
+		"turnsToBuild": 7,
+		"techRequired": "xsaUnlocker",//Fertilizer
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Can be built outside your borders",
+			"Turn this tile into a [Forest] tile",
+			"Does not need removal of [Trading post] <hidden from users>",
+			//"Cannot be built on [Desert] tiles <hidden from users>",
+			//"Cannot be built on [Snow] tiles <hidden from users>"
+		        ],
+		"shortcutkey": "P"
+	},
+	{
+		"name": "Plant Jungle",
+		"terrainsCanBeBuiltOn": ["Wasteland","Badlands","Permafrost","Grassland","Hill","Plains","Tundra","Desert","Snow"],
+		"turnsToBuild": 10,
+		"techRequired": "xsaUnlocker",//Fertilizer
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Can be built outside your borders",
+			"Turn this tile into a [Jungle] tile",
+			"Does not need removal of [Trading post] <hidden from users>",
+			//"Cannot be built on [Desert] tiles <hidden from users>",
+			//"Cannot be built on [Snow] tiles <hidden from users>"
+		        ],
+		"shortcutkey": "P"
+	},
+
+
+
+ { "name": "Repair", "terrainsCanBeBuiltOn": ["Land"], "turnsToBuild": 3, "shortcutKey": "E", "uniques": ["Unbuildable"], "civilopediaText": [{"text":"Repairs a pillaged Improvement or Route"}] },
+
+	{
+		"name": "Bioculture",
+		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"techRequired": "xsaUnlocker",
+        "Gold": 1, 
+        "Production": 1, 
+        "Science": 1, 
+        "Food": 1, 
+        "Culture": 1, 
+        "Faith": 1, 
+        "Happiness": 1
+        "turnsToBuild": 5,
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+            "Only available <within [1] tiles of a [City center]> <in cities with a [MiniCake DNS Vault]>",
+            "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+//            "Food source",
+//			"Can only be built to improve a resource",
+
+            "[+3 Gold, +3 Production, +3 Science, +3 Food, +3 Culture, +3 Faith, +3 Happiness] <for [Human player] Civilizations><after discovering [xsaUnlocker]>",
+			"[+3 Gold, +3 Production, +3 Science, +3 Food, +3 Culture, +3 Faith, +3 Happiness] for each adjacent [Bioculture]<after discovering [xsaUnlocker]>",
+
+/*
+            "[+1 Gold] <after discovering [xsaUnlocker]>",
+			"[+1 Production] <after discovering [xsaUnlocker]>",
+			"[+1 Science] <after discovering [xsaUnlocker]>",
+			"[+1 Food] <after discovering [xsaUnlocker]>",
+			"[+1 Culture] <after discovering [xsaUnlocker]>",
+			"[+1 Faith] <after discovering [xsaUnlocker]>",
+			"[+1 Happiness] <after discovering [xsaUnlocker]>",
+*/
+
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "C"
+	},
+
+	{
+		"name": "DNS FunFort01",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle","Wasteland","Badlands","Permafrost"],
+		"turnsToBuild": 3,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [80] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [160]% <after discovering [xsaUnlocker]>",
+
+			"Gain control over [all] tiles in a [1]-tile radius <after discovering [xsaUnlocker]>",
+		    "Can be built outside your borders", 
+		    "Gives a defensive bonus of [100]% <after discovering [xsaUnlocker]>"],
+		"shortcutKey": "O"
+	},
+	{
+		"name": "DNS FunFort02",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle","Wasteland","Badlands","Permafrost"],
+		"turnsToBuild": 3,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [90] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [180]% <after discovering [xsaUnlocker]>",
+
+			"Gain control over [all] tiles in a [2]-tile radius <after discovering [xsaUnlocker]>",
+		    "Can be built outside your borders", 
+		    "Gives a defensive bonus of [100]% <after discovering [xsaUnlocker]>"],
+		"shortcutKey": "O"
+	},
+	{
+		"name": "DNS FunFort03",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle","Wasteland","Badlands","Permafrost"],
+		"turnsToBuild": 3,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+			"Will not be replaced by automated units", 
+
+		    "Adjacent enemy units ending their turn take [100] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [200]% <after discovering [xsaUnlocker]>",
+
+			"Gain control over [all] tiles in a [3]-tile radius <after discovering [xsaUnlocker]>",
+		    "Can be built outside your borders", 
+		    "Gives a defensive bonus of [100]% <after discovering [xsaUnlocker]>"],
+		"shortcutKey": "O"
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"name": "T11 Mountainify",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Wasteland","Badlands","Permafrost","Lakes","Coast","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Mountain] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+	{
+		"name": "T12 Desertify",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Snow","Mountain","Wasteland","Badlands","Permafrost","Lakes","Coast","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Desert] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+	{
+		"name": "T13 Snowify",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Mountain","Wasteland","Badlands","Permafrost","Lakes","Coast","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Snow] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+
+
+
+
+
+	{
+		"name": "T21 Oceanify",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Mountain","Wasteland","Badlands","Permafrost","Lakes","Coast"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Ocean] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+	{
+		"name": "T22 Coastify",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Mountain","Wasteland","Badlands","Permafrost","Lakes","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Coast] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+	{
+		"name": "T23 Lakesify",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Mountain","Wasteland","Badlands","Permafrost","Coast","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Lakes] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+	{
+		"name": "T24 Iciiify",
+		"terrainsCanBeBuiltOn": ["Lakes","Coast","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Ice] tile",
+			"Cannot be built on [Land] tiles <hidden from users>",
+			"Can be built outside your borders"
+		        ],
+	},
+
+
+
+	{
+		"name": "T31 Wastelandify",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Mountain","Badlands","Permafrost","Lakes","Coast","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Wasteland] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+	{
+		"name": "T32 Badlandsify",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Mountain","Wasteland","Permafrost","Lakes","Coast","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Badlands] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+	{
+		"name": "T33 Permafrostify",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Mountain","Wasteland","Badlands","Lakes","Coast","Ocean"],
+		"turnsToBuild": 2,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+			"Turn this tile into a [Permafrost] tile",
+			"Can be built outside your borders"
+		        ],
+	},
+
+
+
+
+/*
+    {
+		"name": "DNS Farmyard",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 60,
+		"uniques": [
+            "Great Improvement",
+            "Can also be built on tiles adjacent to fresh water",
+            "Removes removable features when built",
+            "Pillaging this improvement yields approximately [+20 Gold]",
+            "[+10 Food] <after discovering [Civil Service]>",
+            "[+10 Food] <after discovering [Fertilizer]>"
+        ]
+	},
+*/
+    {
+		"name": "Remove Ice",
+		"turnsToBuild": 2,
+		"terrainsCanBeBuiltOn": ["Ice"],
+		"techRequired": "Agriculture",
+		"uniques": [
+		    "Can be built outside your borders", 
+		    "Excluded from map editor"],
+	},
+	{
+		"name": "Remove Fallout",
+		"turnsToBuild": 2,
+		// Has no tech requirements as it can always be built
+		"uniques": [
+		    "Can be built outside your borders", 
+		    "Excluded from map editor"],
+		"shortcutKey": "X"
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*
+	  {
+		"name": "Customs house",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 4,
+		"uniques": [
+			"Tile provides yield without assigned population",
+			"Improves [Luxury] resource in this tile", 
+			"Great Improvement", 
+			"[+1 Gold] <after discovering [Economics]>", 
+			"Removes removable features when built", 
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	*/
+
+	// Great Person improvements
+	{
+		"name": "DNS Academy",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Wasteland","Badlands","Permafrost"],
+		"science": 16,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+            "Only available <within [3] tiles of a [City center]> <in cities with a [MiniCake DNS Vault]>",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+ 		    "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+			"Great Improvement", 
+			"[+4 Science] <after discovering [Scientific Theory]>",
+			"[+4 Science] <after discovering [Atomic Theory]>", 
+			"[+10 Science] <after discovering [xsaUnlocker]>",
+			"Removes removable features when built",
+			"Will not be replaced by automated units", 
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "DNS Landmark",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Wasteland","Badlands","Permafrost"],
+		"culture": 12,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+            "Only available <within [3] tiles of a [City center]> <in cities with a [MiniCake DNS Vault]>",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+            "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+			
+			"Great Improvement", 
+			"[+10 Culture] <after discovering [xsaUnlocker]>",
+			"Removes removable features when built",
+			"Will not be replaced by automated units", 
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "DNS Manufactory",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Wasteland","Badlands","Permafrost"],
+		"production": 8,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+            "Only available <within [3] tiles of a [City center]> <in cities with a [MiniCake DNS Vault]>",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+            "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+			"Great Improvement", 
+			"[+2 Production] <after discovering [Chemistry]>", 
+			"[+10 Production] <after discovering [xsaUnlocker]>",
+			"Will not be replaced by automated units",
+			"Removes removable features when built", 
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "DNS Customs house",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Wasteland","Badlands","Permafrost"],
+		"gold": 8,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+            "Only available <within [3] tiles of a [City center]> <in cities with a [MiniCake DNS Vault]>",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+            "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+			
+			"Great Improvement", 
+			"[+2 Gold] <after discovering [Economics]>", 
+			"[+10 Gold] <after discovering [xsaUnlocker]>",
+			"Improves [Luxury] resource in this tile",//xsa <after discovering [xsaUnlocker]>", 
+			"Removes removable features when built",
+			"Will not be replaced by automated units", 
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "DNS Holy site",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Wasteland","Badlands","Permafrost"],
+		"faith": 12,
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+            "Only available <within [3] tiles of a [City center]> <in cities with a [MiniCake DNS Vault]>",
+
+		    "Adjacent enemy units ending their turn take [75] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+            "Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+
+			"Great Improvement", 
+			"[+10 Faith] <after discovering [xsaUnlocker]>",
+			"Removes removable features when built", 
+			"Will not be replaced by automated units", 
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		]
+	},
+	{
+		"name": "DNS Citadel",
+		"terrainsCanBeBuiltOn": ["Plains","Desert","Grassland","Tundra","Snow","Wasteland","Badlands","Permafrost"],
+		"techRequired": "xsaUnlocker",
+		"uniques": [
+ 		    "Cannot be built on [TI11 Camp] tiles",
+ 		    "Cannot be built on [TI12 Oil well] tiles",
+ 		    "Cannot be built on [TI13 Offshore Platform] tiles",
+ 		    "Cannot be built on [TI14 Pasture] tiles",
+ 		    "Cannot be built on [TI15 Plantation] tiles",
+ 		    "Cannot be built on [TI16 Quarry] tiles",
+ 		    "Cannot be built on [TI17 Fishing Boats] tiles",
+ 		    "Cannot be built on [TI18 Farm] tiles",
+ 		    "Cannot be built on [TI19 Mine] tiles",
+ 		    "Cannot be built on [TI20 Fort] tiles",
+
+ 		    "Cannot be built on [DNS FunFort01] tiles",
+ 		    "Cannot be built on [DNS FunFort02] tiles",
+ 		    "Cannot be built on [DNS FunFort03] tiles",
+
+ 		    "Cannot be built on [DNS Academy] tiles",
+ 		    "Cannot be built on [DNS Landmark] tiles",
+ 		    "Cannot be built on [DNS Manufactory] tiles",
+ 		    "Cannot be built on [DNS Customs house] tiles",
+ 		    "Cannot be built on [DNS Holy site] tiles",
+ 		    "Cannot be built on [DNS Citadel] tiles",
+
+		    "Adjacent enemy units ending their turn take [175] damage <after discovering [xsaUnlocker]>",
+ 		    "Gives a defensive bonus of [75]% <after discovering [xsaUnlocker]>",
+
+			"Great Improvement",
+
+			"Gives a defensive bonus of [100]%",
+			"Gives a defensive bonus of [500]% <after discovering [xsaUnlocker]>",
+			"Adjacent enemy units ending their turn take [75] damage",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [1]-tile radius",
+			"Gain control over [all] tiles in a [5]-tile radius <after discovering [xsaUnlocker]>",
+			"Removes removable features when built",
+			"Will not be replaced by automated units"
+		]
+	},
+
+
+
+
+
+	{
+		"name": "Barbarian encampment",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+            "Free [Brute] appears <when adjacent to a [Hostile] unit>",
+			"[2] free [Brute] units appear<every [3] turns>", 
+			"[1] free [Galley] units appear<every [2] turns>", 
+            
+//			"[3] free [Brute] units appear<every [3] turns><in tiles adjacent to [Land] tiles>", 
+//			"[2] free [Galley] units appear<every [2] turns><in tiles adjacent to [Water] tiles>", 
+            
+		    "Unpillagable", 
+		    "Unbuildable", 
+		    "Excluded from map editor"],
+		"requiredTech": "xsaUnlocker",
+        "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
+	}
+
+
+/*
+	{
+		"name": "DNS Ancient ruins",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+		   	"Only available <after discovering [xsaUnlocker]><hidden from users>",
+//		   	"Doesn't generate naturally", 
+
+//		    "Unbuildable",
+		    "Unpillagable", 
+		    "Provides a random bonus when entered", 
+			"Does not need removal of [Forest]", 
+			"Does not need removal of [Jungle]"
+			]
+	}
+*/
+
+]//XSA//END
+
+
+
+
+
+//Provides a random bonus when entered", 
+//xsa//perfectly balanced
+/*
+[
+	{
+		"name": "Moai",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Terrace farm",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Polder",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	}
+]
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+//            "Only available <within [4] tiles of a [City center]> <in [Your] cities><in [Your] tiles>",
+// 		    "Cannot be built on [Foreign] tiles",
+// 		    "Cannot be built on [Foreign Land] tiles",
+//			"Can only be built on [Friendly] tiles",
+//			"Can only be built on [Friendly Land] tiles",
+
+*/
+
+
+
+
+
+
+
+
+/*
+
+
+Road
+Railroad
+
+Academy
+Landmark
+Manufactory
+Customs house
+Holy site
+Citadel
+
+CU01 Moai
+CU02 Terrace farm
+CU03 Polder
+
+TI01 Farm
+TI02 Lumber mill
+TI03 Mine
+TI04 Trading post
+
+TI11 Camp
+TI12 Oil well
+TI13 Offshore Platform
+TI14 Pasture
+TI15 Plantation
+TI16 Quarry
+TI17 Fishing Boats
+TI18 Farm
+TI19 Mine
+TI20 Fort
+
+Plant Forest
+Plant Jungle
+
+Bioculture
+
+DNS FunFort01
+DNS FunFort02
+DNS FunFort03
+
+T11 Mountainify
+T12 Desertify
+T13 Snowify
+
+T21 Oceanify
+T22 Coastify
+T23 Lakesify
+T24 Iciiify
+
+T31 Wastelandify
+T32 Badlandsify
+T33 Permafrostify
+
+Remove Ice
+Remove Fallout
+
+DNS Academy
+DNS Landmark
+DNS Manufactory
+DNS Customs house
+DNS Holy site
+DNS Citadel
+
+Barbarian encampment
+*/
+
+//xsa//removed

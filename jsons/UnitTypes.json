@@ -1,0 +1,825 @@
+/*
+added to almost all unit
+"uniques": ["Automation is a primary action"]
+
+
+//xsa//utility cheat
+*/
+[
+	{
+		"name": "Civilian",
+		"movementType": "Land"
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"
+			]
+	},
+	{
+		"name": "Sword",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Gunpowder",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Archery",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Ranged Gunpowder",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Scout",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Mounted",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Armored",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Siege",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"],
+		"civilopediaText": [
+			{ "text": "Siege units are extremely powerful against cities, but need to be Set Up before they can attack.\nOnce your siege unit is set up, it can attack from the current tile,\n  but once moved to another tile, it will need to be set up again." }
+		]
+	},
+	{
+		"name": "Civilian Water",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Melee Water",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Ranged Water",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Submarine",
+		"movementType": "Water",
+		"uniques": [
+//xsa//		  "Limited to [50] per Civilization",
+		  "Automation is a primary action",
+		  "Can enter ice tiles", 
+		  "Invisible to non-adjacent units", 
+		  "Can see invisible [Submarine] units"
+		  ]
+	},
+	{
+		"name": "Aircraft Carrier",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Fighter",
+		"movementType": "Air",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+		  "Automation is a primary action",
+		  "Aircraft", 
+		  "[+4] Sight", 
+		  "Can see over obstacles", 
+		  "Can perform Air Sweep"
+		  ]
+	},
+	{
+		"name": "Bomber",
+		"movementType": "Air",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+		  "Automation is a primary action",
+		  "Aircraft"
+		  ]
+	},
+	{
+		"name": "Atomic Bomber",
+		"movementType": "Air",
+		"uniques": [
+		  "Missile",
+//xsa//			"Limited to [50] per Civilization",
+		  "Automation is a primary action",
+		  "Aircraft"
+		  ]
+	},
+	{
+		"name": "Missile",
+		"movementType": "Air",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+		  "Missile",
+		  "Automation is a primary action",
+		  "Self-destructs when attacking", 
+		  "Cannot be intercepted"
+		  ]
+	},
+	{
+		"name": "Helicopter",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+		  "Automation is a primary action",
+		  "Can pass through impassable tiles"
+		  ]
+	},
+
+	// Deprecated unit types required for mods without a UnitTypes.json file to work
+
+	{
+		"name": "Melee",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Ranged",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "Armor",
+		"movementType": "Land",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "WaterCivilian",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "WaterMelee",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "WaterRanged",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "WaterSubmarine",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "WaterAircraftCarrier",
+		"movementType": "Water",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+	{
+		"name": "AtomicBomber",
+		"movementType": "Air",
+		"uniques": [
+//xsa//			"Limited to [50] per Civilization",
+			"Automation is a primary action"]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "DNSCivilian",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSCivilianLand",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSCivilianAir",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSCivilianWater",
+        "movementType": "Water",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSSword",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSGunpowder",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSArchery",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSRanged Gunpowder",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSScout",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSMounted",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSArmored",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSSiege",
+        "movementType": "Land",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+        "civilopediaText": [
+            { "text": "Siege units are extremely powerful against cities, but need to be Set Up before they can attack.\nOnce your siege unit is set up, it can attack from the current tile,\n  but once moved to another tile, it will need to be set up again." }
+        ]
+    },
+    {
+        "name": "DNSCivilian Water",
+        "movementType": "Water",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSMelee Water",
+        "movementType": "Water",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSRanged Water",
+        "movementType": "Water",
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSSubmarine",
+        "movementType": "Water",
+        "uniques": [
+            "Can enter ice tiles", 
+            "Invisible to non-adjacent units", 
+            "Can see invisible [Submarine] units",
+
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSAircraft Carrier",
+        "movementType": "Water"
+		"uniques": [
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSInvisible Aircraft Carrier",
+        "movementType": "Water"
+		"uniques": [
+            "Invisible to non-adjacent units", 
+            "All tiles cost 1 movement",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+            "Can see over obstacles", 
+            "Eliminates combat penalty for attacking across a coast",
+            "Eliminates combat penalty for attacking over a river"
+        ]
+    },
+    {
+        "name": "DNSFighter",
+        "movementType": "Air",
+        "uniques": [
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Aircraft", 
+            "[+4] Sight", 
+            "Can see over obstacles", 
+            "Can perform Air Sweep"
+        ]
+    },
+    {
+        "name": "DNSBomber",
+        "movementType": "Air",
+        "uniques": [
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see over obstacles", 
+            "Aircraft"
+        ]
+    },
+    {
+        "name": "DNSAtomic Bomber",
+        "movementType": "Air",
+        "uniques": [
+            "Missile",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Aircraft"
+        ]
+    },
+    {
+        "name": "DNSMissile",
+        "movementType": "Air",
+        "uniques": [
+            "Missile",
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Self-destructs when attacking", 
+            "Cannot be intercepted"
+        ]
+    },
+    {
+        "name": "DNSHelicopter",
+        "movementType": "Land",
+        "uniques": [
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can pass through impassable tiles"
+        ]
+    },
+
+    // Deprecated unit types required for mods without a UnitTypes.json file to work
+
+    {
+        "name": "DNSMelee",
+        "movementType": "Land"
+    },
+    {
+        "name": "DNSRanged",
+        "movementType": "Land"
+    },
+    {
+        "name": "DNSArmor",
+        "movementType": "Land"
+    },
+    {
+        "name": "DNSWaterCivilian",
+        "movementType": "Water"
+    },
+    {
+        "name": "DNSWaterMelee",
+        "movementType": "Water"
+    },
+    {
+        "name": "DNSWaterRanged",
+        "movementType": "Water"
+    },
+    {
+        "name": "DNSWaterSubmarine",
+        "movementType": "Water"
+    },
+    {
+        "name": "DNSWaterAircraftCarrier",
+        "movementType": "Water"
+    },
+    {
+        "name": "DNSAtomicBomber",
+        "movementType": "Air"
+    },
+
+    {
+        "name": "DNSAirship",
+        "movementType": "Land",
+        "uniques": [,
+            "Automation is a primary action",
+            "Can move immediately once bought",
+            "Can see invisible [All] units",
+
+			"Can pass through impassable tiles",
+
+			"All tiles cost 1 movement",
+            "May travel on Water tiles without embarking",
+			"No defensive terrain bonus",
+			"Ignores Zone of Control",
+			"Can see over obstacles",
+			"Eliminates combat penalty for attacking across a coast",
+			"Eliminates combat penalty for attacking over a river"
+		]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	//xsa//utility cheat
+	{
+			"name": "Class S Great People",
+			"movementType": "Land"
+	},
+	{
+			"name": "Class S Trooper",
+			"movementType": "Land"
+	},
+	{
+			"name": "Class S Civilian"
+			"movementType": "Land"
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Airship",
+        "movementType": "Land",
+        "uniques": [
+			"Can pass through impassable tiles",
+			"All tiles cost 1 movement",
+            "May travel on Water tiles without embarking",
+			"No defensive terrain bonus",
+			"Ignores Zone of Control",
+			"Can see over obstacles",
+			"Eliminates combat penalty for attacking across a coast",
+			"Eliminates combat penalty for attacking over a river"
+		]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+
+		"name": "Modifier",
+
+		"movementType": "Air",
+
+		"uniques": [
+
+			"Cannot attack",
+			"Uncapturable",
+			"Unable to capture cities",
+			"No Sight",
+			"Invisible to others"
+
+		]
+
+	},
+
+	{
+
+		"name": "Sandboxer",
+
+		"movementType": "Land",
+
+		"uniques": [
+
+			"Can move immediately once bought",
+			"Can pass through impassable tiles",
+			"Ignores Zone of Control",
+			"May enter foreign tiles without open borders",
+			"All tiles cost 1 movement",
+			// CORREGIDO: Eliminar estas uniques de costo de embarque/desembarque
+			// "[1] Movement point cost to disembark",
+			// "[1] Movement point cost to embark",
+
+			// CORREGIDO: La sintaxis de "Defense bonus when embarked"
+			// La sugerencia del error es "+100% Strength (when defending) (when Embarcadas)"
+			// El formato más robusto que suele funcionar es con "<>" para las condiciones:
+			"+100% Strength <when defending> <when embarked>", // <-- Usa esta línea.
+			// Si el error persiste, prueba con la sugerencia exacta del juego,
+			// pero las palabras clave dentro de <> suelen ser en inglés y minúscula.
+
+			"May attack when embarked",
+			"Eliminates combat penalty for attacking across a coast",
+			"Eliminates combat penalty for attacking over a river",
+			"Cannot be intercepted",
+			"Invisible to others"
+
+		]
+
+	}
+
+]
+
+
+
+
+/*
+"+100% Strength <when defending> <when embarked>", 
+"[+4] Sight", 
+"Aircraft", 
+"All tiles cost 1 movement",
+"Automation is a primary action",
+"Can enter ice tiles", 
+"Can move immediately once bought",
+"Can pass through impassable tiles",
+"Can perform Air Sweep"
+"Can see invisible [Submarine] units"
+"Can see over obstacles", 
+"Cannot be intercepted",
+"Eliminates combat penalty for attacking across a coast",
+"Eliminates combat penalty for attacking over a river",
+"Ignores Zone of Control",
+"Invisible to non-adjacent units", 
+"Invisible to others"
+"May attack when embarked",
+"May enter foreign tiles without open borders",
+"May travel on Water tiles without embarking",
+"No defensive terrain bonus",
+"Self-destructs when attacking", 
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

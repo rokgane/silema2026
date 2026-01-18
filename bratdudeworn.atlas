@@ -1,0 +1,117 @@
+bratdudeworn.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/RB08 Bison
+  rotate: false
+  xy: 4, 194
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RB08 Bison
+  rotate: false
+  xy: 1817, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RB08 Bison+Camp
+  rotate: false
+  xy: 1889, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RB08 Bison+Camp-Industrial era
+  rotate: false
+  xy: 1961, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RB08 Bison+Camp-Pillaged
+  rotate: false
+  xy: 1512, 666
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ResourceIcons/RL21 Cocoa
+  rotate: false
+  xy: 112, 518
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RL21 Cocoa
+  rotate: false
+  xy: 1601, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RL21 Cocoa+Plantation
+  rotate: false
+  xy: 1673, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RL21 Cocoa+Plantation-Pillaged
+  rotate: false
+  xy: 1745, 684
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/JungleG+RL21 Cocoa
+  rotate: false
+  xy: 1800, 620
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/JungleP+RL21 Cocoa
+  rotate: false
+  xy: 1872, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RB08 Bison+TI11 Camp
+  rotate: false
+  xy: 1889, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RB08 Bison+TI11 Camp-Industrial era
+  rotate: false
+  xy: 1961, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RB08 Bison+TI11 Camp-Pillaged
+  rotate: false
+  xy: 1512, 666
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RL21 Cocoa+TI15 Plantation
+  rotate: false
+  xy: 1673, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/RL21 Cocoa+TI15 Plantation-Pillaged
+  rotate: false
+  xy: 1745, 684
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1

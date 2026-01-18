@@ -1,0 +1,58 @@
+
+termux-setup-storage
+gh auth login
+
+
+
+
+
+rm -f .git/index.lock
+find .git -name "*.lock" -delete
+git clean -fd
+git reset --hard HEAD
+
+git config --global pull.rebase true
+
+
+
+
+
+
+cd /storage/emulated/0/Download/uniciv/tuhoho2025
+git init
+git add .
+git commit -m "fuvkcrappyinvalidmodstructure random88"
+git remote add origin https://github.com/rokgane/rokgane0.git
+git checkout -b main
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/rokgane/rokgane0/archive/refs/heads/main.zip
+
+
+
+
+
+cd /storage/emulated/0/Download/uniciv/tuhoho2025
+git add .
+git commit -m "Jesus2026 DDHHMMYY 12Jan 2332 2026"
+git push -f origin main
+
+
+
+
+
+
+Adjacent enemy units ending their turn take [amount] damage <Suppress warning [validationWarning]>
+			
+
+

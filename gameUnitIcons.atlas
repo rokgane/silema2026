@@ -1,0 +1,2146 @@
+gameUnitIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+BuildingIcons/E3 Alhambra
+  rotate: false
+  xy: 1176, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Amphitheater
+  rotate: false
+  xy: 1284, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Angkor Wat
+  rotate: false
+  xy: 1392, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Apollo Program
+  rotate: false
+  xy: 1716, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Aqueduct
+  rotate: false
+  xy: 1824, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Armory
+  rotate: false
+  xy: 848, 1824
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Arsenal
+  rotate: false
+  xy: 112, 28
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Bank
+  rotate: false
+  xy: 320, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Barracks
+  rotate: false
+  xy: 428, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Bazaar
+  rotate: false
+  xy: 752, 1642
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Big Ben
+  rotate: false
+  xy: 320, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E8 Bomb Shelter
+  rotate: false
+  xy: 428, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Brandenburg Gate
+  rotate: false
+  xy: 752, 1534
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 Broadcast Tower
+  rotate: false
+  xy: 190, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Burial Tomb
+  rotate: false
+  xy: 298, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E8 CN Tower
+  rotate: false
+  xy: 190, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Castle
+  rotate: false
+  xy: 190, 972
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/R01 Cathedral
+  rotate: false
+  xy: 190, 864
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Ceilidh Hall
+  rotate: false
+  xy: 406, 1080
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Chichen Itza
+  rotate: false
+  xy: 298, 864
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Circus
+  rotate: false
+  xy: 190, 648
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Circus Maximus
+  rotate: false
+  xy: 298, 756
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Coffee House
+  rotate: false
+  xy: 406, 864
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Colosseum
+  rotate: false
+  xy: 190, 540
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Colossus
+  rotate: false
+  xy: 298, 648
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Constabulary
+  rotate: false
+  xy: 190, 324
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Courthouse
+  rotate: false
+  xy: 860, 1500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 Cristo Redentor
+  rotate: false
+  xy: 536, 1426
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 Eiffel Tower
+  rotate: false
+  xy: 622, 1318
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Factory
+  rotate: false
+  xy: 514, 994
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fallback
+  rotate: false
+  xy: 622, 1102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Floating Gardens
+  rotate: false
+  xy: 514, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Forbidden Palace
+  rotate: false
+  xy: 622, 994
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Forge
+  rotate: false
+  xy: 514, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Garden
+  rotate: false
+  xy: 514, 562
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Granary
+  rotate: false
+  xy: 514, 454
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Grand Temple
+  rotate: false
+  xy: 622, 562
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Great Firewall
+  rotate: false
+  xy: 730, 562
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Great Mosque of Djenne
+  rotate: false
+  xy: 730, 346
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Great Wall
+  rotate: false
+  xy: 838, 1176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Hagia Sophia
+  rotate: false
+  xy: 838, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Hanging Gardens
+  rotate: false
+  xy: 838, 528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hanse
+  rotate: false
+  xy: 838, 420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Harbor
+  rotate: false
+  xy: 838, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Hermitage
+  rotate: false
+  xy: 946, 1176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Heroic Epic
+  rotate: false
+  xy: 946, 1068
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Himeji Castle
+  rotate: false
+  xy: 946, 960
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Hospital
+  rotate: false
+  xy: 946, 528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E8 Hubble Space Telescope
+  rotate: false
+  xy: 946, 420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Hydro Plant
+  rotate: false
+  xy: 838, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Ironworks
+  rotate: false
+  xy: 385, 216
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Kremlin
+  rotate: false
+  xy: 1604, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Krepost
+  rotate: false
+  xy: 1712, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Leaning Tower of Pisa
+  rotate: false
+  xy: 968, 1608
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Library
+  rotate: false
+  xy: 968, 1392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Lighthouse
+  rotate: false
+  xy: 1076, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Longhouse
+  rotate: false
+  xy: 1184, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Machu Picchu
+  rotate: false
+  xy: 1292, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Manhattan Project
+  rotate: false
+  xy: 1184, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Market
+  rotate: false
+  xy: 1292, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Mausoleum of Halicarnassus
+  rotate: false
+  xy: 1400, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Medical Lab
+  rotate: false
+  xy: 1292, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Military Academy
+  rotate: false
+  xy: 1508, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 Military Base
+  rotate: false
+  xy: 1616, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Mint
+  rotate: false
+  xy: 1400, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/R02 Monastery
+  rotate: false
+  xy: 1832, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Monument
+  rotate: false
+  xy: 1616, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/R03 Mosque
+  rotate: false
+  xy: 1724, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Mud Pyramid Mosque
+  rotate: false
+  xy: 1832, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Mughal Fort
+  rotate: false
+  xy: 1724, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Museum
+  rotate: false
+  xy: 1832, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 National College
+  rotate: false
+  xy: 1940, 1505
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 National Epic
+  rotate: false
+  xy: 1940, 1397
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 National Intelligence Agency
+  rotate: false
+  xy: 1054, 1284
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 National Treasury
+  rotate: false
+  xy: 1054, 1176
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 Neuschwanstein
+  rotate: false
+  xy: 1054, 1068
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Notre Dame
+  rotate: false
+  xy: 1054, 852
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Nuclear Plant
+  rotate: false
+  xy: 1054, 636
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Observatory
+  rotate: false
+  xy: 1054, 420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Opera House
+  rotate: false
+  xy: 1054, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Oxford University
+  rotate: false
+  xy: 1054, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/R04 Pagoda
+  rotate: false
+  xy: 1162, 1288
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E0 Palace
+  rotate: false
+  xy: 1162, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Paper Maker
+  rotate: false
+  xy: 1162, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Pentagon
+  rotate: false
+  xy: 1162, 964
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Petra
+  rotate: false
+  xy: 1378, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Police Station
+  rotate: false
+  xy: 1378, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Porcelain Tower
+  rotate: false
+  xy: 1486, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Public School
+  rotate: false
+  xy: 1378, 964
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Pyramid
+  rotate: false
+  xy: 1486, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Recycling Center
+  rotate: false
+  xy: 1702, 1288
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 Research Lab
+  rotate: false
+  xy: 1270, 754
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Satrap's Court
+  rotate: false
+  xy: 1486, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Seaport
+  rotate: false
+  xy: 1810, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Shrine
+  rotate: false
+  xy: 1486, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Sistine Chapel
+  rotate: false
+  xy: 1702, 964
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Solar Plant
+  rotate: false
+  xy: 1486, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E8 Spaceship Factory
+  rotate: false
+  xy: 1594, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Stable
+  rotate: false
+  xy: 1810, 964
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 Stadium
+  rotate: false
+  xy: 1162, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E6 Statue of Liberty
+  rotate: false
+  xy: 1486, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Statue of Zeus
+  rotate: false
+  xy: 1594, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Stele
+  rotate: false
+  xy: 1810, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 Stock Exchange
+  rotate: false
+  xy: 1270, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/TechIcons/E1 Stone Works
+  rotate: false
+  xy: 1378, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Stonehenge
+  rotate: false
+  xy: 1486, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E7 Sydney Opera House
+  rotate: false
+  xy: 1594, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Taj Mahal
+  rotate: false
+  xy: 1702, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Temple
+  rotate: false
+  xy: 1594, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Temple of Artemis
+  rotate: false
+  xy: 1702, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 Terracotta Army
+  rotate: false
+  xy: 1702, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 The Great Library
+  rotate: false
+  xy: 1810, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 The Great Lighthouse
+  rotate: false
+  xy: 1810, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E5 The Louvre
+  rotate: false
+  xy: 1378, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E2 The Oracle
+  rotate: false
+  xy: 1486, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 The Pyramids
+  rotate: false
+  xy: 1594, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Theatre
+  rotate: false
+  xy: 1702, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E8 United Nations
+  rotate: false
+  xy: 1486, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 University
+  rotate: false
+  xy: 1594, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/A01 Utopia Project
+  rotate: false
+  xy: 1702, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Walls
+  rotate: false
+  xy: 1918, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Walls of Babylon
+  rotate: false
+  xy: 1918, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Wat
+  rotate: false
+  xy: 1918, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E1 Water Mill
+  rotate: false
+  xy: 268, 1836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/E4 Windmill
+  rotate: false
+  xy: 1918, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/E3 Workshop
+  rotate: false
+  xy: 1918, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 African Forest Elephant
+  rotate: false
+  xy: 960, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Anti-Aircraft Gun
+  rotate: false
+  xy: 1500, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Anti-Tank Gun
+  rotate: false
+  xy: 1608, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Archer
+  rotate: false
+  xy: 1932, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Artillery
+  rotate: false
+  xy: 268, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Atlatlist
+  rotate: false
+  xy: 376, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Atomic Bomb
+  rotate: false
+  xy: 484, 1750
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 B17
+  rotate: false
+  xy: 700, 1750
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Ballista
+  rotate: false
+  xy: 212, 1620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Battering Ram
+  rotate: false
+  xy: 536, 1642
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Battleship
+  rotate: false
+  xy: 644, 1642
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Berserker
+  rotate: false
+  xy: 212, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Bomber
+  rotate: false
+  xy: 536, 1534
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Bowman
+  rotate: false
+  xy: 644, 1534
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/B01 Brute
+  rotate: false
+  xy: 190, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Camel Archer
+  rotate: false
+  xy: 298, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Cannon
+  rotate: false
+  xy: 406, 1404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Caravel
+  rotate: false
+  xy: 190, 1080
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Carolean
+  rotate: false
+  xy: 298, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Carrier
+  rotate: false
+  xy: 406, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Cataphract
+  rotate: false
+  xy: 298, 1080
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Catapult
+  rotate: false
+  xy: 406, 1188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Cavalry
+  rotate: false
+  xy: 298, 972
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Chariot Archer
+  rotate: false
+  xy: 190, 756
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Chu-Ko-Nu
+  rotate: false
+  xy: 406, 972
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Companion Cavalry
+  rotate: false
+  xy: 406, 756
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Composite Bowman
+  rotate: false
+  xy: 190, 432
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Conquistador
+  rotate: false
+  xy: 406, 648
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Cossack
+  rotate: false
+  xy: 860, 1608
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Crossbowman
+  rotate: false
+  xy: 644, 1426
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Destroyer
+  rotate: false
+  xy: 752, 1426
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Dromon
+  rotate: false
+  xy: 514, 1210
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Fighter
+  rotate: false
+  xy: 730, 1210
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Foreign Legion
+  rotate: false
+  xy: 730, 1102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Frigate
+  rotate: false
+  xy: 514, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Galleass
+  rotate: false
+  xy: 622, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/B03 Galley
+  rotate: false
+  xy: 730, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Gatling Gun
+  rotate: false
+  xy: 622, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E8 Giant Death Robot
+  rotate: false
+  xy: 730, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Great Admiral
+  rotate: false
+  xy: 730, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Great Artist
+  rotate: false
+  xy: 514, 346
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Great Engineer
+  rotate: false
+  xy: 622, 454
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Great General
+  rotate: false
+  xy: 622, 352
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Great Merchant
+  rotate: false
+  xy: 730, 454
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Great Prophet
+  rotate: false
+  xy: 860, 1392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Great Scientist
+  rotate: false
+  xy: 838, 1284
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Great War Bomber
+  rotate: false
+  xy: 838, 1068
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Great War Infantry
+  rotate: false
+  xy: 838, 960
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Guided Missile
+  rotate: false
+  xy: 838, 852
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Hakkapeliitta
+  rotate: false
+  xy: 838, 636
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Helicopter Gunship
+  rotate: false
+  xy: 946, 1284
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Hoplite
+  rotate: false
+  xy: 946, 852
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Horse Archer
+  rotate: false
+  xy: 946, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Horseman
+  rotate: false
+  xy: 946, 636
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Hussar
+  rotate: false
+  xy: 622, 244
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Hwach'a
+  rotate: false
+  xy: 730, 238
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Infantry
+  rotate: false
+  xy: 946, 204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Inquisitor
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Ironclad
+  rotate: false
+  xy: 277, 216
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Jaguar
+  rotate: false
+  xy: 956, 1824
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Janissary
+  rotate: false
+  xy: 1064, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E8 Jet Fighter
+  rotate: false
+  xy: 1172, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Keshik
+  rotate: false
+  xy: 1280, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Khan
+  rotate: false
+  xy: 1388, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Knight
+  rotate: false
+  xy: 1496, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Lancer
+  rotate: false
+  xy: 1820, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Landship
+  rotate: false
+  xy: 1928, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Landsknecht
+  rotate: false
+  xy: 968, 1716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Legion
+  rotate: false
+  xy: 968, 1500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Longbowman
+  rotate: false
+  xy: 1076, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Longswordsman
+  rotate: false
+  xy: 1076, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Machine Gun
+  rotate: false
+  xy: 1184, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Mandekalu Cavalry
+  rotate: false
+  xy: 1076, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Maori Warrior
+  rotate: false
+  xy: 1292, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/B04 Marauder
+  rotate: false
+  xy: 1400, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Marine
+  rotate: false
+  xy: 1184, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E8 Mechanized Infantry
+  rotate: false
+  xy: 1508, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Mehal Sefari
+  rotate: false
+  xy: 1400, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Minuteman
+  rotate: false
+  xy: 1508, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E8 Missile Cruiser
+  rotate: false
+  xy: 1616, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E0 Missionary
+  rotate: false
+  xy: 1724, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Mobile SAM
+  rotate: false
+  xy: 1508, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E8 Modern Armor
+  rotate: false
+  xy: 1616, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Mohawk Warrior
+  rotate: false
+  xy: 1724, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Musketeer
+  rotate: false
+  xy: 1832, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Musketman
+  rotate: false
+  xy: 1940, 1721
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Naresuan's Elephant
+  rotate: false
+  xy: 1940, 1613
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Norwegian Ski Infantry
+  rotate: false
+  xy: 1054, 960
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Nuclear Missile
+  rotate: false
+  xy: 1054, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E8 Nuclear Submarine
+  rotate: false
+  xy: 1054, 528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Panzer
+  rotate: false
+  xy: 1270, 1288
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Paratrooper
+  rotate: false
+  xy: 1378, 1288
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Persian Immortal
+  rotate: false
+  xy: 1270, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Pictish Warrior
+  rotate: false
+  xy: 1486, 1288
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Pikeman
+  rotate: false
+  xy: 1162, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Privateer
+  rotate: false
+  xy: 1162, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Quinquereme
+  rotate: false
+  xy: 1594, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E5 Rifleman
+  rotate: false
+  xy: 1378, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Rocket Artillery
+  rotate: false
+  xy: 1594, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E9 SS Booster
+  rotate: false
+  xy: 1702, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E9 SS Cockpit
+  rotate: false
+  xy: 1810, 1288
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E9 SS Engine
+  rotate: false
+  xy: 1162, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E9 SS Stasis Chamber
+  rotate: false
+  xy: 1270, 646
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Samurai
+  rotate: false
+  xy: 1378, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Scout
+  rotate: false
+  xy: 1594, 964
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Sea Beggar
+  rotate: false
+  xy: 1702, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Settler
+  rotate: false
+  xy: 1270, 538
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Ship of the Line
+  rotate: false
+  xy: 1378, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Sipahi
+  rotate: false
+  xy: 1594, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/B02 Skirmisher
+  rotate: false
+  xy: 1162, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Slinger
+  rotate: false
+  xy: 1378, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Spearman
+  rotate: false
+  xy: 1702, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E8 Stealth Bomber
+  rotate: false
+  xy: 1702, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Submarine
+  rotate: false
+  xy: 1702, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E2 Swordsman
+  rotate: false
+  xy: 1486, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Tank
+  rotate: false
+  xy: 1810, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Tercio
+  rotate: false
+  xy: 1810, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E3 Trebuchet
+  rotate: false
+  xy: 1810, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E6 Triplane
+  rotate: false
+  xy: 1270, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Trireme
+  rotate: false
+  xy: 1162, 99
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+UnitIcons/E4 Turtle Ship
+  rotate: false
+  xy: 1378, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 War Chariot
+  rotate: false
+  xy: 1918, 964
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 War Elephant
+  rotate: false
+  xy: 1918, 856
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Warrior
+  rotate: false
+  xy: 1918, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Work Boats
+  rotate: false
+  xy: 1918, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E1 Worker
+  rotate: false
+  xy: 1918, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/E7 Zero
+  rotate: false
+  xy: 1918, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Carrier
+  rotate: false
+  xy: 406, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Firework Flare
+  rotate: false
+  xy: 838, 852
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Guided Rocket
+  rotate: false
+  xy: 838, 852
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Guided Missile
+  rotate: false
+  xy: 838, 852
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Nuclear Missile P02
+  rotate: false
+  xy: 1054, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Nuclear Missile P05
+  rotate: false
+  xy: 1054, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Nuclear Missile P08
+  rotate: false
+  xy: 1054, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Nuclear Missile P11
+  rotate: false
+  xy: 1054, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Nuclear Missile P13
+  rotate: false
+  xy: 1054, 744
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Helicopter Gunship
+  rotate: false
+  xy: 946, 1284
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Jet Fighter
+  rotate: false
+  xy: 1172, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Stealth Bomber
+  rotate: false
+  xy: 1702, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Destroyer
+  rotate: false
+  xy: 752, 1426
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Battleship
+  rotate: false
+  xy: 644, 1642
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Missile Cruiser
+  rotate: false
+  xy: 1616, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Submarine
+  rotate: false
+  xy: 1702, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Nuclear Submarine
+  rotate: false
+  xy: 1054, 528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Modern Armor
+  rotate: false
+  xy: 1616, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Mechanized Infantry
+  rotate: false
+  xy: 1508, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Mobile SAM
+  rotate: false
+  xy: 1508, 1396
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Rocket Artillery
+  rotate: false
+  xy: 1594, 1072
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Work Boats
+  rotate: false
+  xy: 1918, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Worker
+  rotate: false
+  xy: 1918, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Settler
+  rotate: false
+  xy: 1270, 538
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Scout
+  rotate: false
+  xy: 1594, 964
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Missionary
+  rotate: false
+  xy: 1724, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Inquisitor
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Great Admiral
+  rotate: false
+  xy: 730, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Great Artist
+  rotate: false
+  xy: 514, 346
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Great Engineer
+  rotate: false
+  xy: 622, 454
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Great General
+  rotate: false
+  xy: 622, 352
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Great Merchant
+  rotate: false
+  xy: 730, 454
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Great Prophet
+  rotate: false
+  xy: 860, 1392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Great Scientist
+  rotate: false
+  xy: 838, 1284
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Khan
+  rotate: false
+  xy: 1388, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS War Bomber
+  rotate: false
+  xy: 838, 1068
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Checkeri1
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Checkeri2
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Checkeri3
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Checkeri4
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Checkeri5
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Checkeri6
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Checkeri7
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Checkeri8
+  rotate: false
+  xy: 169, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/High Brute
+  rotate: false
+  xy: 190, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/High Skirmisher
+  rotate: false
+  xy: 1162, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/High Galley
+  rotate: false
+  xy: 730, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/High Marauder
+  rotate: false
+  xy: 1400, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Worker Boat Class 3
+  rotate: false
+  xy: 1918, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Worker Land Class 3
+  rotate: false
+  xy: 1918, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Fighter Zero
+  rotate: false
+  xy: 1918, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Bomber B17
+  rotate: false
+  xy: 700, 1750
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+
+
+
+
+

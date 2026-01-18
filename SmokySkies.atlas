@@ -1,0 +1,187 @@
+SmokySkies.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/Aetherium
+  rotate: false
+  xy: 4, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Luboric
+  rotate: false
+  xy: 112, 78
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+TechIcons/Airships
+  rotate: false
+  xy: 437, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Land Leviathan
+  rotate: false
+  xy: 437, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Sky Fortress
+  rotate: false
+  xy: 437, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Landships
+  rotate: false
+  xy: 545, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aetherium
+  rotate: false
+  xy: 62, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Luboric
+  rotate: false
+  xy: 1370, 347
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Airship
+  rotate: false
+  xy: 1949, 385
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Airship
+  rotate: false
+  xy: 1949, 385
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Sky Fortress
+  rotate: false
+  xy: 1192, 199
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sky Fortress
+  rotate: false
+  xy: 1192, 199
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Land Ironclad
+  rotate: false
+  xy: 374, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Land Leviathan
+  rotate: false
+  xy: 1330, 347
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Landship
+  rotate: false
+  xy: 414, 131
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Airship
+  rotate: false
+  xy: 221, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Flyer
+  rotate: false
+  xy: 1625, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Land Ironclad
+  rotate: false
+  xy: 220, 275
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Land Leviathan
+  rotate: false
+  xy: 220, 167
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sky Fortress
+  rotate: false
+  xy: 760, 167
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Land Leviathan
+  rotate: false
+  xy: 220, 167
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Sky Carrier
+  rotate: false
+  xy: 760, 167
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-DNS Sky Carrier
+  rotate: false
+  xy: 1192, 199
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/DNS Sky Carrier
+  rotate: false
+  xy: 1192, 199
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/DNS Land Leviathan
+  rotate: false
+  xy: 1330, 347
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/DNS Flyer
+  rotate: false
+  xy: 1625, 383
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
