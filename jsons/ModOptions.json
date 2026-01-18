@@ -3,7 +3,7 @@
 <	"author": "ArchCake",
 	"isBaseRuleset": false,
     "uniques": [
-				  "Mod requires [rokgane0]",
+//				  "Mod requires [rokgane0]",
 				  "Diplomatic relationdhips cannot change",
 				  "Allow city States to spawn with additional units",
 				  "Suppress warning [is supposed to automatically upgrade]"
